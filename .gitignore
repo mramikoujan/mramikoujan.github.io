@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+node_modules/
+
+# Large source materials kept locally only (exceed GitHub 100MB per-file limit)
+materials/thumbnails/*.mp4
